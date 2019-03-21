@@ -14,7 +14,7 @@
 @display5Font: 'Rubik', sans-serif;
 @display5Size: 1.5;
 @display7Font: 'Pacifico', handwriting;
-@display7Size: 0.4;
+@display7Size: 1;
 @display4Font: 'Rubik', sans-serif;
 @display4Size: 0,5;
 @isRoundedButtons: true;
@@ -2122,8 +2122,8 @@ nav.opened .hamburger span {
   color: #efefef !important;
 }
 .cid-rlihcjhil1 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rlihcjhil1 .mbr-slider .carousel-control {
@@ -2254,6 +2254,7 @@ nav.opened .hamburger span {
   color: #767676;
   margin: 0;
   padding-top: 0.5rem;
+  text-align: center;
 }
 .cid-rlij9sMQXV .iconfont-wrapper {
   display: flex;
